@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"hamberger",
+        "price":"150",
+        "qty":10
+        
+    },
+    {
+        "id":2,
+        "name":"steak",
+        "price":"400",
+        "qty":8
+        
+    },
+    {
+        "id":3,
+        "name":"sandwich",
+        "price":"90",
+        "qty":8
+        
+    }
+]

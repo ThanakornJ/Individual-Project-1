@@ -1,0 +1,19 @@
+[
+  {
+      "id":1,
+      "customer_id":2,
+      "menus":[
+          {
+            "name":"hamberger","qty":"5","price":"150"
+            
+          }
+          
+           
+
+      ]
+      
+
+    }
+
+ 
+]
